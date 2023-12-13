@@ -1,5 +1,5 @@
 Лабораторна робота 15 
-Завдання 1
+			Завдання 1
 #include <stdio.h>
 int main()
 
@@ -20,7 +20,7 @@ int main()
 		return 0;
 
 }
-Завдання 2
+			Завдання 2
 #include <stdio.h>
 #define size 3
 int main()
@@ -57,7 +57,7 @@ int main()
 	return 0;
 
 }
-Завдання 3
+			Завдання 3
 #include <stdio.h>
 #define size 15
 int main()
@@ -74,7 +74,7 @@ int main()
 	return 0;
 
 }
-Завдання 4
+			Завдання 4
 #include <stdio.h>
 #define size 10
 int main()
@@ -90,7 +90,7 @@ int main()
 	return 0;
 
 }
-Завдання 5
+			Завдання 5
 #include <stdio.h>
 #define size 10
 int main()
@@ -108,7 +108,7 @@ int main()
 	}
 	return 0;
 }
-Завдання 6
+			Завдання 6
 #include <stdio.h>
 #define size 10
 int main()
